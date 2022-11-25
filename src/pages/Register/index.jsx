@@ -27,7 +27,7 @@ function Register() {
         <h1>Cadastre-se</h1>
         <span>Vamos criar sua conta.</span>
         <form className='form' onSubmit={handleRegister}>
-          <input type="email" placeholder='seuemail@server.com'
+          <input type="email" placeholder='emailInstitucional@server.com'
           value={email} onChange={(e)=>setEmail(e.target.value)}/> <br/>
           <input type="password" placeholder='******'
           value={password}onChange={(e)=>setPassword(e.target.value)}/> <br/>

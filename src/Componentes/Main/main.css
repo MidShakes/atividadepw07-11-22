@@ -1,0 +1,42 @@
+.main{
+  display: flex;
+  height: fit-content;
+  justify-content: space-around;
+  padding: 0.3vw;
+  padding-bottom: 0.3vw;
+
+}
+  
+.inform{
+  display: flex;
+  flex-direction: column;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+  width: 40vw; 
+  color:black
+}
+  
+.Title{
+  text-align: center;
+  font-size: 3.5vw;
+  padding: 0.5vw;
+  font-weight: 1000;
+}
+  
+.news{
+  font-weight: 400;
+  text-align: justify;
+  font-size: 1.9vw;  
+} 
+  
+.mainImg{
+  padding: 0.3vw;
+  padding-bottom: 0vw;
+  margin-bottom: 0.3vw;
+}  
+
+.image{
+  border-radius: 0.6vw;
+  width: 55vw;
+  height: 27vw;
+}

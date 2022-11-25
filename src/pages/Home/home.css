@@ -10,9 +10,11 @@
 .home-container h1{
     font-size: 48px;
     margin-bottom: 8px;
+    color: #0b7535;
 }
 .home-container span{
     margin-bottom: 12px;
+    color: #0b7535;
 }
 .form{
     display: flex;
@@ -31,8 +33,7 @@
     height: 36px;
     border: 0;
     border-radius: 4px;
-    background-color:#3366ff ;
-    color: #ffffff;
+    background-color:#099b1c ;
     font-size: 18px;
 }
 .form textarea{

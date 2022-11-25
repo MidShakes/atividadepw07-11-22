@@ -1,0 +1,32 @@
+.sugest{
+    background-color: #21742f;
+    display: flex;
+    margin: 0;
+    padding-top: 0.65vw;
+    padding-bottom: 0.65vw;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .box{
+    background-color: #e7e7e7;
+    display: flex;
+    flex-direction: column;
+    margin: 0.1vw;
+    padding: 0.3vw;
+    border-radius: 0.6vw;
+    width: 15.6vw;
+  }
+  
+  .Img{
+    height: 10vw;
+    width: 15.6vw;
+    border-radius: 0.6vw 0.6vw 0vw 0vw;
+  }
+   
+  .title1{
+    text-align: center;
+    font-size: 1.3vw;
+    font-weight: 600;
+  }
+  

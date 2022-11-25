@@ -1,0 +1,17 @@
+.titulo{
+    text-align: center;
+    font-size: 3.49vw;
+    font-weight: 900;
+    background-color: #e6e6e6;
+    color: black;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    padding: 1vw 0vw 0vw 0vw;
+}
+.capa{
+    border-radius: 0;
+    height: 30vw;
+    width: 70vw;
+}

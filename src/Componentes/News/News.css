@@ -1,0 +1,9 @@
+.body{
+    display: flex;
+    font-size: 1.5vw;
+    text-align: justify;
+    background-color: #e6e6e6;
+    width: 70%;
+    margin-left: 15%;
+    color: black;
+}

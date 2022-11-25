@@ -26,11 +26,11 @@ function Home() {
     }//fim da função handleLogin
     return (
       <div className='home-container'>
-        <h1>Lista de Tarefas</h1>
-        <span>Gerencie sua agenda fácil.</span>
+        <h1>IFRO News</h1>
+        <span>Seu portal de informações do ifro.</span>
         <form className='form' onSubmit={handleLogin}>
             <input type="email"
-                   placeholder='seuemail@server.com'
+                   placeholder='emailInstitucional@server.com'
                    value={email}
                    onChange={(e)=>setEmail(e.target.value)}/> <br/>
             <input type="password"

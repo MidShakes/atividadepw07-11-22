@@ -1,0 +1,14 @@
+.Footer{
+    margin-top: 0.9vw;
+    background-color: #099B1C;
+    line-height: 30px;
+    display: flex;
+    flex-direction:row;
+    justify-content: left;
+    font-size: 0,9vw;
+    padding: 10px;
+}
+.lista{
+    list-style: none;
+    font-size: 0,9vw;
+}
